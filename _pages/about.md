@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, My name is Zhuoran WANG (王卓然), I am now a Phd student at the Financial Technology Thrust, [Society Hub](https://soch.hkust-gz.edu.cn/), [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). My supervisor is Prof. [Ying ZHANG](https://sites.google.com/view/ying-zhang/home?authuser=0).
+Hi, My name is Zhuoran WANG (王卓然), I am now a Phd student at the Financial Technology Thrust, [Society Hub](https://soch.hkust-gz.edu.cn/), [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). My supervisor is Prof. [Ying ZHANG](https://sites.google.com/view/ying-zhang/home?authuser=0). Before that, I obtained a Bachelor's degree in Finance from [Nanjing Agricultural University](https://www.njau.edu.cn/) in June 2024.
 
-My research interests focus on *financial mathematics*, i.e., studying mathematical problems originating from finance, developing corresponding mathematical theories, and advancing mathematics while solving financial problems. Typical examples include applied probability, stochastic calculus and Malliavin analysis and their applications to derivatives pricing, financial risk management and machine learning algorithms.
+My research interests focus on *financial mathematics*, i.e., studying mathematical problems originating from finance, developing corresponding mathematical theories, and advancing mathematics while solving financial problems. Typical examples include applied probability, stochastic calculus and their applications to derivatives pricing, financial risk management and machine learning algorithms.
 
 # 📝 Publications 
 It will be updated as soon as the author has a published article.
