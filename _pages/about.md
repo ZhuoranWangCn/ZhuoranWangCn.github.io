@@ -16,14 +16,16 @@ My research interests focus on *financial mathematics*, i.e., studying mathemati
 It will be updated as soon as the author has a published article.
 
 # 🏆 Honors and Awards
-- Since 2024, Postgraduate Studentships (PGS), *The Hong Kong University of Science and Technology* (*Guangzhou*).
-- 2021 and 2023, Undergraduate Second Class Scholarship, *Nanjing Agricultural University*.
++ Postgraduate Studentships (PGS), *The Hong Kong University of Science and Technology* (*Guangzhou*), since 2024/09.
++ Undergraduate Second Class Scholarship, *Nanjing Agricultural University*, 2021/10 and 2024/10.
 
 # 📖 Educations
-👨🏻‍🎓 Since 2024.09, Phd Student in Financial Technology, *The Hong Kong University of Science and Technology* (*Guangzhou*).
-+ Supervisor: Prof. Ying ZHANG
+**Phd Student in Financial Technology**, since 2024/09.
++ *The Hong Kong University of Science and Technology* (*Guangzhou*).
++ Supervisor: Prof. Ying ZHANG.
 
-👨🏻‍🎓 2020.09 - 2024.06, Bachelor in Finance, *Nanjing Agricultural University*. 
+**Bachelor in Finance**, 2020/09 - 2024-06.
++ *Nanjing Agricultural University*.
 
 # 🏫 Invited Talks
 This will be updated as soon as it happens.
