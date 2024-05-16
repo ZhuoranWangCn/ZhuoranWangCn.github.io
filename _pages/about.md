@@ -20,14 +20,14 @@ It will be updated as soon as the author has a published article.
 + **Undergraduate Second Class Scholarship**, *Nanjing Agricultural University*, 2021/10 and 2024/10.
 
 # 📖 Educations
-**Phd Student in Financial Technology**, since 2024/09.
-+ *The Hong Kong University of Science and Technology* (*Guangzhou*).
-+ Supervisor: Prof. Ying ZHANG.
++ **Phd Student in Financial Technology**, since 2024/09.
+  + *The Hong Kong University of Science and Technology* (*Guangzhou*).
+  + Supervisor: Prof. Ying ZHANG.
 
-**Bachelor in Finance**, 2020/09 - 2024-06.
-+ *Nanjing Agricultural University*.
++ **Bachelor in Finance**, 2020/09 - 2024-06.
+  + *Nanjing Agricultural University*.
 
-# 🏫 Invited Talks
+# 🏫 Conferences and Talks
 This will be updated as soon as it happens.
 
 # 📘 Teaching and Lecture Notes
