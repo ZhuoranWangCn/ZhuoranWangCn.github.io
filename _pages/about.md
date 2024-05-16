@@ -30,3 +30,6 @@ This will be updated as soon as it happens.
 
 # 💻 Internships
 This will be updated as soon as it happens.
+
+# 📘 Teaching and Lecture Notes
+
