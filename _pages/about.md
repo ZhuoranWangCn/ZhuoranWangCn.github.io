@@ -16,8 +16,8 @@ My research interests focus on *financial mathematics*, i.e., studying mathemati
 It will be updated as soon as the author has a published article.
 
 # 🏆 Honors and Awards
-+ Postgraduate Studentships (PGS), *The Hong Kong University of Science and Technology* (*Guangzhou*), since 2024/09.
-+ Undergraduate Second Class Scholarship, *Nanjing Agricultural University*, 2021/10 and 2024/10.
++ **Postgraduate Studentships (PGS)**, *The Hong Kong University of Science and Technology* (*Guangzhou*), since 2024/09.
++ **Undergraduate Second Class Scholarship**, *Nanjing Agricultural University*, 2021/10 and 2024/10.
 
 # 📖 Educations
 **Phd Student in Financial Technology**, since 2024/09.
