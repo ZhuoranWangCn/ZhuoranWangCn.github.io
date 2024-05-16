@@ -23,7 +23,7 @@ It will be updated as soon as the author has a published article.
 *Since 2024.09*, Ph.d Student in Financial Technology, **The Hong Kong University of Science and Technology (Guangzhou)**.
 + Supervisor: Prof. Ying ZHANG
 
-*2020.09 - 2024.06*, Bachelor in Finance, **Nanjing Agricultural University**.
+Bachelor in Finance, **Nanjing Agricultural University**. <p align="right">2020.09 - 2024.06</p>
 
 # 💬 Invited Talks
 This will be updated as soon as it happens.
