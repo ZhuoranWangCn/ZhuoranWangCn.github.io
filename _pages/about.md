@@ -32,4 +32,5 @@ This will be updated as soon as it happens.
 This will be updated as soon as it happens.
 
 # 📘 Teaching and Lecture Notes
-
+I am not currently a teaching assistant.
++ MATH4123 at NJAU. Functions of Real Variable. [PDF]
