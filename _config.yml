@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuoran WANG"
-description              : "Fintech Thrust, HKUST(GZ)"
+description              : "Applied Probability Theory and Financial Mathematics"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhuoran WANG"
-  avatar           : "face.png"
-  bio              : "Applied Probability Theory and Financial Mathematics"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Fintech Thrust, HKUST(GZ)"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
