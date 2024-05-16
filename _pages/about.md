@@ -15,7 +15,7 @@ My research interests focus on *financial mathematics*, i.e., studying mathemati
 # 📝 Publications 
 It will be updated as soon as the author has a published article.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - Since 2024, Postgraduate Studentships (PGS), *The Hong Kong University of Science and Technology* (*Guangzhou*).
 - 2021 and 2023, Undergraduate Second Class Scholarship, *Nanjing Agricultural University*.
 
@@ -25,10 +25,7 @@ It will be updated as soon as the author has a published article.
 
 👨🏻‍🎓 2020.09 - 2024.06, Bachelor in Finance, *Nanjing Agricultural University*. 
 
-# 💬 Invited Talks
-This will be updated as soon as it happens.
-
-# 💻 Internships
+# 🏫 Invited Talks
 This will be updated as soon as it happens.
 
 # 📘 Teaching and Lecture Notes
