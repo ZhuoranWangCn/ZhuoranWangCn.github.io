@@ -24,7 +24,7 @@ It will be updated as soon as the author has a published article.
   + *The Hong Kong University of Science and Technology* (*Guangzhou*).
   + Supervisor: Prof. Ying ZHANG.
 
-+ **Bachelor in Finance**, 2020/09 - 2024-06.
++ **Bachelor in Finance**, 2020/09 - 2024/06.
   + *Nanjing Agricultural University*.
 
 # 🏫 Conferences and Talks
