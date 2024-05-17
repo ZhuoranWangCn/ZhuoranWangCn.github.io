@@ -39,4 +39,4 @@ I haven't had any teaching experience yet.
 
 If you find some mistakes in my notes, please let me know. You can contact me by sending me an email: zhuoran_wang2002@163.com. Thanks!
 
-![HKUSTGZ](../images/hnn.png)
+![HKUSTGZ](../images/hn.png)
