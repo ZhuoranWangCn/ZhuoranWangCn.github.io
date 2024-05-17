@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![HKUSTGZ](../images/hn.png)
+
 <img src="../images/UST.png" alt="UST" style="zoom:20%;" />
 
 Hi, My name is Zhuoran WANG (王卓然), I am now a Phd student at the Financial Technology Thrust, [Society Hub](https://soch.hkust-gz.edu.cn/), [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). My supervisor is Prof. [Ying ZHANG (张莹)](https://sites.google.com/view/ying-zhang/home?authuser=0). Before that, I obtained a Bachelor's degree in Finance from [Nanjing Agricultural University](https://www.njau.edu.cn/) in June 2024.
