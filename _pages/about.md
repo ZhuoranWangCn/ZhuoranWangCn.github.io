@@ -28,6 +28,7 @@ It will be updated as soon as the author has a published article.
 
 + **Bachelor in Finance**, 2020/09 — 2024/06.
   + *Nanjing Agricultural University*.
+  + Outstanding Undergraduate Graduates.
 
 # 🏫 Conferences and Talks
 This will be updated as soon as it happens.
