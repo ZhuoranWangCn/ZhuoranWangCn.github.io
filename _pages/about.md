@@ -35,8 +35,9 @@ This will be updated as soon as it happens.
 
 # 📘 Teaching and Lecture Notes
 I haven't had any teaching experience yet.
-+ Notes. MATH4123 at NJAU. Functions of Real Variable. [[PDF]](../Lecture/reala.pdf) (2023 Fall)
-+ Notes. MATH4122 at NJAU. Functional Analysis. [[PDF]](../Lecture/fun.pdf) (2023 Fall)
++ Notes. Real Analysis. [[PDF]](../Lecture/reala.pdf) (2023 Fall)
++ Notes. Functional Analysis. [[PDF]](../Lecture/fun.pdf) (2023 Fall)
++ Notes. Probability Theory (Based on Measure Theory, central Limit Theorem still not completed). [[PDF]](../Lecture/pr.pdf) (2024 Spring)
 
 If you find some mistakes in my notes, please let me know. You can contact me by sending me an email: zhuoran_wang2002@163.com. Thanks!
 
