@@ -12,8 +12,6 @@ Hi, My name is Zhuoran WANG (王卓然), I am now a Phd student at the Financial
 
 My research interests focus on *financial mathematics*, i.e., studying mathematical problems originating from finance, developing corresponding mathematical theories, and advancing mathematics while solving financial problems. Typical examples include applied probability, stochastic calculus and their applications to derivatives pricing, financial risk management and machine learning algorithms.
 
-The email address I use currently is [zhuoran_wang2002@163.com]. I will update my edu. email address at HKUST(GZ) soon.
-
 # 📝 Publications 
 It will be updated as soon as the author has a published article.
 
@@ -26,7 +24,7 @@ It will be updated as soon as the author has a published article.
   + *The Hong Kong University of Science and Technology* (*Guangzhou*).
   + Supervisor: Prof. Ying ZHANG.
 
-+ **Bachelor in Finance**, 2020/09 — 2024/06.
++ **Bachelor in Finance**, 2020/09 to 2024/06.
   + *Nanjing Agricultural University*.
   + Outstanding Undergraduate Graduates.
 
