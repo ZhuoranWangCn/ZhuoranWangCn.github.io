@@ -27,7 +27,7 @@ It will be updated as soon as the author has a published article.
   + Supervisor: Prof. Ying ZHANG.
 
 + **Bachelor in Finance**, 2020/09 to 2024/06.
-  + *Nanjing Agricultural University*.
+  + *Nanjing Agricultural University*. GPA: 4/4.5, Rank: 9/109.
   + Outstanding Undergraduate Graduates.
 
 # 🏫 Conferences and Talks
