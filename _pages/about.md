@@ -39,6 +39,6 @@ I haven't had any teaching experience yet.
 + Notes. Functional Analysis. [[PDF]](../Lecture/fun.pdf) (2023 Fall)
 + Notes. Probability Theory (Based on Measure Theory, central Limit Theorem still not completed). [[PDF]](../Lecture/pr.pdf) (2024 Spring)
 
-If you find some mistakes in my notes, please let me know. You can contact me by sending me an email: zhuoran_wang2002@163.com. Thanks!
+If you find some mistakes in my notes, please let me know. You can contact me by sending me an email: zwang104@connect.hkust-gz.edu.cn. Thanks!
 
 ![HKUSTGZ](../images/hn.png)
