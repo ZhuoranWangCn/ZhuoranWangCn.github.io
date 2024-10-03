@@ -33,7 +33,7 @@ It will be updated as soon as the author has a published article.
 # 🏫 Conferences and Talks
 This will be updated as soon as it happens.
 
-# 📗 Lecture Notes
+# 📗 Teaching and Lecture Notes
 
 When I was at NJAU, I wrote the lecture notes of *real and functional analysis*, so feel free to contact me if you find any errors in them, or if you have any suggestions about them.
 
