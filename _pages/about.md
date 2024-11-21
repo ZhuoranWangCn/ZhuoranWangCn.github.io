@@ -35,14 +35,6 @@ This will be updated as soon as it happens.
 
 # 📗 Teaching and Lecture Notes
 
-When I was at NJAU, I wrote the lecture notes of *real and functional analysis*, so feel free to contact me if you find any errors in them, or if you have any suggestions about them.
-
-+ Real Analysis. [[PDF]](../Lecture/reala.pdf) (2023 Fall)
-+ Functional Analysis. [[PDF]](../Lecture/fun.pdf) (2023 Fall)
-
-Currently, I am studying *Advanced Probability Theory* and *Stochastic Analysis*, and I still write some handouts and I will update it once I finish it. My main reference books are the following two:
-
-+ Çinlar, Erhan. [*Probability and stochastics*](https://link.springer.com/book/10.1007/978-0-387-87859-1). Springer, 2011. (GTM 261)
-+ Le Gall, Jean-François. [*Brownian motion, martingales, and stochastic calculus*](https://link.springer.com/book/10.1007/978-3-319-31089-3). Springer, 2016. (GTM 274)
+This will be updated as soon as it happens.
 
 ![HKUSTGZ](../images/hn.png)
