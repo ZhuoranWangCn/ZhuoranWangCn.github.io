@@ -17,7 +17,7 @@ This will be updated as soon as it happens.
 
 # 🏆 Honors and Awards
 + **Postgraduate Studentships**, *The Hong Kong University of Science and Technology (Guangzhou)*, since 2024/09.
-+ **Outstanding Undergraduate**, Nanjing Agricultural University, 2024/06. 
++ **Outstanding Undergraduate**, *Nanjing Agricultural University*, 2024/06. 
 + **Excellent Undergraduate Graduation Thesis**, *Nanjing Agricultural University*, 2024/06.
 + **Second Class Scholarship**, *Nanjing Agricultural University*, 2021/10 and 2024/10.
 
