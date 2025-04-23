@@ -12,6 +12,8 @@ Hi, My name is Zhuoran WANG (王卓然), I am now a Ph.D. student in Financial T
 
 My research interests focus on *numerical algorithms in stochastic Langevin dynamics and their applications in finance*, including numerical algorithms design, convergence analysis, numerical simulation, and financial applications.
 
+📧 **Email**: zwang104@connect.hkust-gz.edu.cn
+
 # 📝 Publications 
 This will be updated as soon as it happens.
 
