@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, My name is Zhuoran WANG (王卓然), I am now a Ph.D. student in Financial Technology at *The Hong Kong University of Science and Technology (Guangzhou)* under the supervision of Dr. Ying ZHANG. Before that, I obtained a Bachelor's degree in Finance from *Nanjing Agricultural University* in June 2024.
 
-My research interests focus on *numerical algorithms (design, convergence and simulation) in stochastic differential equations - Kinetic Langevin equations - and their applications in finance*.
+My research interests focus on *numerical algorithms (design, convergence and simulation) in stochastic differential equations - Kinetic Langevin equations - and their applications in finance and machine learning theory.
 
 📧 **Email**: zwang104@connect.hkust-gz.edu.cn
 
