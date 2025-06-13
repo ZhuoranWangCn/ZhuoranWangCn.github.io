@@ -32,7 +32,7 @@ This will be updated as soon as it happens.
   + *Nanjing Agricultural University*. GPA: 4/4.5, Rank: 9/109
 
 # 🏫 Conferences and Talks
-This will be updated as soon as it happens.
++ **Graduate Seminar on Applied Mathematics (Stochastic Computing)**, *Peking University*, 2025/07/11 -- 2025/07/18.
 
 # 📗 Teaching and Lecture Notes
 
