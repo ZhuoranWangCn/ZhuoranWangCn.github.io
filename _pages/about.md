@@ -18,10 +18,10 @@ My primary focus is on the design of numerical algorithms for *stochastic Langev
 This will be updated as soon as it happens.
 
 # 🏆 Honors and Awards
-+ **Postgraduate Studentships**, *The Hong Kong University of Science and Technology (Guangzhou)*, since 2024/09.
-+ **Outstanding Undergraduate**, *Nanjing Agricultural University*, 2024/06. 
-+ **Excellent Undergraduate Graduation Thesis**, *Nanjing Agricultural University*, 2024/06.
-+ **Second Class Scholarship**, *Nanjing Agricultural University*, 2021/10 and 2024/10.
++ Postgraduate Studentships, *The Hong Kong University of Science and Technology (Guangzhou)*, since 2024/09.
++ Outstanding Undergraduate, *Nanjing Agricultural University*, 2024/06. 
++ Excellent Undergraduate Graduation Thesis, *Nanjing Agricultural University*, 2024/06.
++ Second Class Scholarship, *Nanjing Agricultural University*, 2021/10 and 2024/10.
 
 # 📖 Educations
 + **Ph.D. Student in Financial Technology**, since 2024/09
@@ -32,12 +32,12 @@ This will be updated as soon as it happens.
   + *Nanjing Agricultural University*. GPA: 4/4.5, Rank: 9/109
 
 # 🏫 Conferences and Talks
-+ **Graduate Seminar on Applied Mathematics (Stochastic Computing)**, *Peking University*, 2025/07/11 - 2025/07/18.
++ Workshop on Applied Mathematics for Graduate Students (Stochastic Computing), *Peking University*, 2025/07/11 - 2025/07/18.
 
 # 📗 Teaching and Lecture Notes
 
 I will serve as the teaching assistant of the following courses and camp at the Hong Kong University of Science and Technology (Guangzhou):
-+ *Rid Bird Challenge Camp (RBCC)*, 2025 Summer.
-+ *Stochastic Calculus for Financial Technology*, 2025 Fall.
++ Rid Bird Challenge Camp (RBCC), 2025 Summer.
++ Stochastic Calculus for Financial Technology, 2025 Fall.
 
 ![HKUSTGZ](../images/hn.png)
