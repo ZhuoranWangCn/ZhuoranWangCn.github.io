@@ -36,7 +36,8 @@ This will be updated as soon as it happens.
 
 # 📗 Teaching and Lecture Notes
 
-I will serve as the teaching assistant of the following courses and camp at the Hong Kong University of Science and Technology (Guangzhou):
+I have served as the teaching assistant of the following courses and camp at the Hong Kong University of Science and Technology (Guangzhou):
 + Rid Bird Challenge Camp (RBCC) Phase 3, 2025 Summer.
++ FTEC 5061. Stochastic Calculus for Financial Technology, 2025 Fall.
 
 ![HKUSTGZ](../images/hn.png)
